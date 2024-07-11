@@ -1,6 +1,6 @@
 name: loading_pulse
 description: "Loading pulse animation."
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/GioRey/loading_pulse
 
 environment:

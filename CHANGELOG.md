@@ -1,3 +1,7 @@
 ## 0.0.1
 
-* only loading animation implemented
+* Only loading animation implemented
+
+## 0.0.2
+
+* Fix image for example
