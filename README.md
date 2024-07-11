@@ -3,7 +3,7 @@
 you an check te demo in example folder
 
 ##### DEMO
-![alt Loading pulse](https://raw.githubusercontent.com/GioRey/loading_pulse/master/demo.gif)
+![alt Loading pulse](https://raw.githubusercontent.com/GioRey/loading_pulse/main/example.gif)
 ## Usage
 
 ```dart
